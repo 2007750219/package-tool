@@ -1,2 +1,2 @@
 # package-tool
-This is a simple tool for you to  pack your game resources  or any other directory to a file 
+This is a simple tool for you to  pack your game resources  or any other directories to a file 
